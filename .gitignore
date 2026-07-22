@@ -1,0 +1,23 @@
+# Secrets
+.env
+
+# Local state
+*.db
+agent_state.db
+
+# Generated output
+blog_posts/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
